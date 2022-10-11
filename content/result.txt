@@ -1,0 +1,1 @@
+Result file contains: This is first text file and This is second text file
